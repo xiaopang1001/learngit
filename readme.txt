@@ -7,3 +7,4 @@ create a new branch is quick in git and very simple.
 dd for no fff
 git stash
 add for zjh 
+add for binglinghai
