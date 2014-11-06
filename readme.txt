@@ -4,4 +4,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 create a new branch is quick in git and very simple.
-add for no fff
+dd for no fff
+git stash
